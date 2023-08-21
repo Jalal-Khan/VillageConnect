@@ -1,6 +1,5 @@
 # VillageConnect
 Conveys the application's aim to resolve rural issues through digital means.
-\\\\\\\\\\\\\\\*************\\\\\\\\\\\\\\\\
 
 1)Application Purpose: The primary goal of the application is to enable villagers to easily communicate their issues, questions, or problems to their local Union council members. This allows for a streamlined way of addressing various concerns within the village.
 
